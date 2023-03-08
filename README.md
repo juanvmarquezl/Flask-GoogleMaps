@@ -38,6 +38,10 @@ To use in your project just use your dependency manager to install it, with pip 
 ```bash
 pip install flask-googlemaps
 ```
+or 
+```bash
+pip install git+https://github.com/flask-extensions/Flask-GoogleMaps
+```
 
 ## How it works
 
